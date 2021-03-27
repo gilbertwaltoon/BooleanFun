@@ -1,0 +1,402 @@
+
+Starting boolean_parse_tree
+
+_expr
+
+
+in expr()
+
+in term() calling factor()
+
+_expr
+	_term
+
+
+In value
+
+_expr
+	_term
+		_value
+
+
+in term2() with ! calling _factor()
+
+in factor with pl.current ['(', '']
+
+_expr
+	_term
+		_value
+			!
+			_factor
+
+
+in factor() with ( calling expr
+
+in expr()
+
+_expr
+	_term
+		_value
+			!
+			_factor
+				(
+					_expr
+
+
+in term() calling factor()
+
+_expr
+	_term
+		_value
+			!
+			_factor
+				(
+					_expr
+						_term
+
+
+In value
+
+_expr
+	_term
+		_value
+			!
+			_factor
+				(
+					_expr
+						_term
+							_value
+
+
+in term2() with ! calling _factor()
+
+in factor with pl.current ['var', 'x']
+
+_expr
+	_term
+		_value
+			!
+			_factor
+				(
+					_expr
+						_term
+							_value
+								!
+								_factor
+
+
+in factor() with [num,var]
+
+_expr
+	_term
+		_value
+			!
+			_factor
+				(
+					_expr
+						_term
+							_value
+								!
+								_factor
+									var,x
+
+
+factor() returning true
+
+in term
+
+in term2 with pl.current = ['+', ''] 
+
+_expr
+	_term
+		_value
+			!
+			_factor
+				(
+					_expr
+						_term
+							_value
+								!
+								_factor
+									var,x
+							_term2
+
+
+in _term2 with [+,-,)] -> EPS, returning True
+
+in expr(), calling expr2()
+
+in expr2() with pl current ['+', ''] 
+
+_expr
+	_term
+		_value
+			!
+			_factor
+				(
+					_expr
+						_term
+							_value
+								!
+								_factor
+									var,x
+							_term2
+						_expr2
+
+
+expr2 got +
+
+in expr2() calling term()
+
+in term() calling factor()
+
+_expr
+	_term
+		_value
+			!
+			_factor
+				(
+					_expr
+						_term
+							_value
+								!
+								_factor
+									var,x
+							_term2
+						_expr2
+							+
+							_term
+
+
+In value
+
+_expr
+	_term
+		_value
+			!
+			_factor
+				(
+					_expr
+						_term
+							_value
+								!
+								_factor
+									var,x
+							_term2
+						_expr2
+							+
+							_term
+								_value
+
+
+in term2() with ! calling _factor()
+
+in factor with pl.current ['var', 'y']
+
+_expr
+	_term
+		_value
+			!
+			_factor
+				(
+					_expr
+						_term
+							_value
+								!
+								_factor
+									var,x
+							_term2
+						_expr2
+							+
+							_term
+								_value
+									!
+									_factor
+
+
+in factor() with [num,var]
+
+_expr
+	_term
+		_value
+			!
+			_factor
+				(
+					_expr
+						_term
+							_value
+								!
+								_factor
+									var,x
+							_term2
+						_expr2
+							+
+							_term
+								_value
+									!
+									_factor
+										var,y
+
+
+factor() returning true
+
+in term
+
+in term2 with pl.current = [')', ''] 
+
+_expr
+	_term
+		_value
+			!
+			_factor
+				(
+					_expr
+						_term
+							_value
+								!
+								_factor
+									var,x
+							_term2
+						_expr2
+							+
+							_term
+								_value
+									!
+									_factor
+										var,y
+								_term2
+
+
+in _term2 with [+,-,)] -> EPS, returning True
+
+in expr2() calling expr2()
+
+in expr2() with pl current [')', ''] 
+
+_expr
+	_term
+		_value
+			!
+			_factor
+				(
+					_expr
+						_term
+							_value
+								!
+								_factor
+									var,x
+							_term2
+						_expr2
+							+
+							_term
+								_value
+									!
+									_factor
+										var,y
+								_term2
+							_expr2
+
+
+in expr2 with [),None]
+
+_expr returning true
+
+in _factor. expr returned pl.current [')', '']
+
+in factor with ), returning True
+
+in term
+
+in term2 with pl.current = [None] 
+
+_expr
+	_term
+		_value
+			!
+			_factor
+				(
+					_expr
+						_term
+							_value
+								!
+								_factor
+									var,x
+							_term2
+						_expr2
+							+
+							_term
+								_value
+									!
+									_factor
+										var,y
+								_term2
+							_expr2
+					)
+		_term2
+
+
+in _term2 with [+,-,)] -> EPS, returning True
+
+in expr(), calling expr2()
+
+in expr2() with pl current [None] 
+
+_expr
+	_term
+		_value
+			!
+			_factor
+				(
+					_expr
+						_term
+							_value
+								!
+								_factor
+									var,x
+							_term2
+						_expr2
+							+
+							_term
+								_value
+									!
+									_factor
+										var,y
+								_term2
+							_expr2
+					)
+		_term2
+	_expr2
+
+
+in expr2 with [),None]
+
+_expr returning true
+
+Leaving
+
+_expr
+	_term
+		_value
+			!
+			_factor
+				(
+					_expr
+						_term
+							_value
+								!
+								_factor
+									var,x
+							_term2
+						_expr2
+							+
+							_term
+								_value
+									!
+									_factor
+										var,y
+								_term2
+							_expr2
+					)
+		_term2
+	_expr2
+

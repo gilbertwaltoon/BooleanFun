@@ -1,0 +1,32 @@
+
+starting
+before
+{'_expr': [['_expr', '+', '_term'], ['_expr', '-', '_term'], ['_term']], '_term': [['_term', '*', '_factor'], ['_term', '/', '_factor'], ['_factor']], '_factor': [['(', '_expr', ')'], ['num'], ['var']]}
+in transform with nts =['_expr', '_term', '_factor']
+_term _expr
+Inspecting['_term', '*', '_factor']
+Inspecting['_term', '/', '_factor']
+Inspecting['_factor']
+_factor _expr
+Inspecting['(', '_expr', ')']
+Inspecting['num']
+Inspecting['var']
+_factor _term
+Inspecting['(', '_expr', ')']
+Inspecting['num']
+Inspecting['var']
+after
+'_expr': [['_term', '_expr2']], 
+{'_expr2': [['+', '_term', '_expr2'], 
+                  ['-', '_term', '_expr2'], 
+                  ['_eps']], 
+'_term': [['_factor', '_term2']], 
+'_term2': [['*', '_factor', '_term2'], 
+                 ['/', '_factor', '_term2'], 
+                 ['_eps']], 
+'_factor': [['(', '_expr', ')', '_factor2'], 
+                 [ 'num', '_factor2'], 
+                 ['var', '_factor2']]
+'_factor2': [['_eps']], 
+}
+Done

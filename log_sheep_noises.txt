@@ -1,0 +1,1276 @@
+INFO:root:Started
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:sent is now  munch baa baa
+DEBUG:root:returning Flossy says  munch baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch munch
+DEBUG:root:returning Flossy says  munch munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Flossy says  baa munch
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:sent is now  baa baa baa munch
+DEBUG:root:returning Flossy says  baa baa baa munch
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch munch
+DEBUG:root:sent is now  munch munch munch
+DEBUG:root:sent is now  munch munch munch munch
+DEBUG:root:returning Flossy says  munch munch munch munch
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:returning Flossy says  munch baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:sent is now  munch baa munch
+DEBUG:root:sent is now  munch baa munch baa
+DEBUG:root:returning Flossy says  munch baa munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch munch
+DEBUG:root:sent is now  munch munch baa
+DEBUG:root:returning Flossy says  munch munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch munch
+DEBUG:root:sent is now  munch munch baa
+DEBUG:root:returning Flossy says  munch munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:returning Flossy says  baa baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:sent is now  baa baa baa baa
+DEBUG:root:sent is now  baa baa baa baa baa
+DEBUG:root:returning Flossy says  baa baa baa baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa munch
+DEBUG:root:sent is now  baa baa munch baa
+DEBUG:root:sent is now  baa baa munch baa baa
+DEBUG:root:sent is now  baa baa munch baa baa baa
+DEBUG:root:returning Flossy says  baa baa munch baa baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch munch
+DEBUG:root:returning Flossy says  munch munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:sent is now  baa munch baa
+DEBUG:root:sent is now  baa munch baa baa
+DEBUG:root:sent is now  baa munch baa baa baa
+DEBUG:root:returning Flossy says  baa munch baa baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa munch
+DEBUG:root:returning Flossy says  baa baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:returning Flossy says  munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa munch
+DEBUG:root:returning Flossy says  baa baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Flossy says  baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:sent is now  baa munch baa
+DEBUG:root:returning Flossy says  baa munch baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch munch
+DEBUG:root:sent is now  munch munch munch
+DEBUG:root:sent is now  munch munch munch baa
+DEBUG:root:sent is now  munch munch munch baa munch
+DEBUG:root:sent is now  munch munch munch baa munch baa
+DEBUG:root:sent is now  munch munch munch baa munch baa munch
+DEBUG:root:sent is now  munch munch munch baa munch baa munch baa
+DEBUG:root:sent is now  munch munch munch baa munch baa munch baa baa
+DEBUG:root:sent is now  munch munch munch baa munch baa munch baa baa baa
+DEBUG:root:sent is now  munch munch munch baa munch baa munch baa baa baa munch
+DEBUG:root:sent is now  munch munch munch baa munch baa munch baa baa baa munch munch
+DEBUG:root:returning Flossy says  munch munch munch baa munch baa munch baa baa baa munch munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:returning Flossy says  munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:sent is now  baa baa baa baa
+DEBUG:root:sent is now  baa baa baa baa baa
+DEBUG:root:sent is now  baa baa baa baa baa baa
+DEBUG:root:returning Flossy says  baa baa baa baa baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:sent is now  baa baa baa munch
+DEBUG:root:returning Flossy says  baa baa baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:returning Flossy says  baa baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch munch
+DEBUG:root:returning Flossy says  munch munch
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:sent is now  baa munch munch
+DEBUG:root:returning Flossy says  baa munch munch
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:sent is now  munch baa baa
+DEBUG:root:returning Flossy says  munch baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Flossy says  baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:sent is now  baa baa baa baa
+DEBUG:root:returning Flossy says  baa baa baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:sent is now  munch baa baa
+DEBUG:root:sent is now  munch baa baa baa
+DEBUG:root:sent is now  munch baa baa baa baa
+DEBUG:root:sent is now  munch baa baa baa baa baa
+DEBUG:root:returning Flossy says  munch baa baa baa baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa munch
+DEBUG:root:sent is now  baa baa munch baa
+DEBUG:root:sent is now  baa baa munch baa baa
+DEBUG:root:sent is now  baa baa munch baa baa munch
+DEBUG:root:returning Flossy says  baa baa munch baa baa munch
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:returning Flossy says  munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:returning Flossy says  baa baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:sent is now  munch baa munch
+DEBUG:root:returning Flossy says  munch baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Flossy says  baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:sent is now  baa baa baa munch
+DEBUG:root:returning Flossy says  baa baa baa munch
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:returning Flossy says  munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:sent is now  baa munch baa
+DEBUG:root:sent is now  baa munch baa baa
+DEBUG:root:sent is now  baa munch baa baa munch
+DEBUG:root:sent is now  baa munch baa baa munch baa
+DEBUG:root:returning Flossy says  baa munch baa baa munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:sent is now  baa baa baa baa
+DEBUG:root:sent is now  baa baa baa baa munch
+DEBUG:root:sent is now  baa baa baa baa munch munch
+DEBUG:root:sent is now  baa baa baa baa munch munch baa
+DEBUG:root:returning Flossy says  baa baa baa baa munch munch baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:sent is now  munch baa baa
+DEBUG:root:sent is now  munch baa baa munch
+DEBUG:root:sent is now  munch baa baa munch baa
+DEBUG:root:returning Flossy says  munch baa baa munch baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:sent is now  munch baa munch
+DEBUG:root:sent is now  munch baa munch munch
+DEBUG:root:sent is now  munch baa munch munch munch
+DEBUG:root:sent is now  munch baa munch munch munch munch
+DEBUG:root:returning Flossy says  munch baa munch munch munch munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:returning Flossy says  munch baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:returning Flossy says  baa baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa munch
+DEBUG:root:sent is now  baa baa munch munch
+DEBUG:root:returning Flossy says  baa baa munch munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:sent is now  baa baa baa baa
+DEBUG:root:returning Flossy says  baa baa baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch munch
+DEBUG:root:returning Flossy says  munch munch
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch munch
+DEBUG:root:returning Flossy says  munch munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:sent is now  munch baa munch
+DEBUG:root:sent is now  munch baa munch munch
+DEBUG:root:sent is now  munch baa munch munch baa
+DEBUG:root:returning Flossy says  munch baa munch munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Flossy says  baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Flossy says  baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:sent is now  munch baa baa
+DEBUG:root:sent is now  munch baa baa baa
+DEBUG:root:sent is now  munch baa baa baa baa
+DEBUG:root:returning Flossy says  munch baa baa baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:sent is now  baa munch munch
+DEBUG:root:sent is now  baa munch munch baa
+DEBUG:root:returning Flossy says  baa munch munch baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:sent is now  munch baa baa
+DEBUG:root:sent is now  munch baa baa baa
+DEBUG:root:returning Flossy says  munch baa baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:sent is now  baa baa baa baa
+DEBUG:root:sent is now  baa baa baa baa baa
+DEBUG:root:sent is now  baa baa baa baa baa munch
+DEBUG:root:sent is now  baa baa baa baa baa munch baa
+DEBUG:root:returning Flossy says  baa baa baa baa baa munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:sent is now  munch baa baa
+DEBUG:root:returning Flossy says  munch baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch munch
+DEBUG:root:sent is now  munch munch baa
+DEBUG:root:returning Flossy says  munch munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Flossy says  baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa munch
+DEBUG:root:returning Flossy says  baa baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Flossy says  baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Flossy says  baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Flossy says  baa munch
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch munch
+DEBUG:root:returning Flossy says  munch munch
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Flossy says  baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:sent is now  baa baa baa baa
+DEBUG:root:returning Flossy says  baa baa baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:sent is now  munch baa baa
+DEBUG:root:returning Flossy says  munch baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:returning Flossy says  munch baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch munch
+DEBUG:root:sent is now  munch munch munch
+DEBUG:root:returning Flossy says  munch munch munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Flossy says  baa munch
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa munch
+DEBUG:root:returning Flossy says  baa baa munch
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch munch
+DEBUG:root:sent is now  munch munch baa
+DEBUG:root:returning Flossy says  munch munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:sent is now  baa baa baa baa
+DEBUG:root:sent is now  baa baa baa baa baa
+DEBUG:root:sent is now  baa baa baa baa baa baa
+DEBUG:root:returning Flossy says  baa baa baa baa baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:sent is now  baa munch baa
+DEBUG:root:returning Flossy says  baa munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:sent is now  baa munch baa
+DEBUG:root:sent is now  baa munch baa baa
+DEBUG:root:sent is now  baa munch baa baa baa
+DEBUG:root:sent is now  baa munch baa baa baa baa
+DEBUG:root:sent is now  baa munch baa baa baa baa baa
+DEBUG:root:sent is now  baa munch baa baa baa baa baa munch
+DEBUG:root:returning Flossy says  baa munch baa baa baa baa baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch munch
+DEBUG:root:sent is now  munch munch baa
+DEBUG:root:sent is now  munch munch baa baa
+DEBUG:root:sent is now  munch munch baa baa baa
+DEBUG:root:sent is now  munch munch baa baa baa baa
+DEBUG:root:returning Flossy says  munch munch baa baa baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa munch
+DEBUG:root:returning Flossy says  baa baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Flossy says  baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Flossy says  baa munch
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:sent is now  munch baa baa
+DEBUG:root:returning Flossy says  munch baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:returning Flossy says  baa baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:sent is now  munch baa munch
+DEBUG:root:sent is now  munch baa munch munch
+DEBUG:root:sent is now  munch baa munch munch baa
+DEBUG:root:returning Flossy says  munch baa munch munch baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa munch
+DEBUG:root:sent is now  baa baa munch baa
+DEBUG:root:sent is now  baa baa munch baa munch
+DEBUG:root:sent is now  baa baa munch baa munch baa
+DEBUG:root:returning Flossy says  baa baa munch baa munch baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:returning Flossy says  munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:sent is now  baa munch baa
+DEBUG:root:sent is now  baa munch baa baa
+DEBUG:root:sent is now  baa munch baa baa baa
+DEBUG:root:sent is now  baa munch baa baa baa baa
+DEBUG:root:sent is now  baa munch baa baa baa baa munch
+DEBUG:root:sent is now  baa munch baa baa baa baa munch baa
+DEBUG:root:sent is now  baa munch baa baa baa baa munch baa baa
+DEBUG:root:returning Flossy says  baa munch baa baa baa baa munch baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch munch
+DEBUG:root:returning Flossy says  munch munch
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:returning Flossy says  munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa munch
+DEBUG:root:returning Flossy says  baa baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:sent is now  baa baa baa baa
+DEBUG:root:sent is now  baa baa baa baa munch
+DEBUG:root:returning Flossy says  baa baa baa baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:sent is now  baa baa baa baa
+DEBUG:root:returning Flossy says  baa baa baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa munch
+DEBUG:root:returning Flossy says  baa baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch munch
+DEBUG:root:returning Flossy says  munch munch
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Winne says  baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winne says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:sent is now  munch baa munch
+DEBUG:root:sent is now  munch baa munch baa
+DEBUG:root:returning Winne says  munch baa munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winne says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winne says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:sent is now  baa baa baa baa
+DEBUG:root:returning Winne says  baa baa baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:sent is now  baa baa baa baa
+DEBUG:root:returning Winne says  baa baa baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:sent is now  baa baa baa baa
+DEBUG:root:returning Winne says  baa baa baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winne says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Winne says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:sent is now  baa munch munch
+DEBUG:root:sent is now  baa munch munch baa
+DEBUG:root:sent is now  baa munch munch baa baa
+DEBUG:root:returning Winnie says  baa munch munch baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:sent is now  baa baa baa baa
+DEBUG:root:sent is now  baa baa baa baa munch
+DEBUG:root:sent is now  baa baa baa baa munch baa
+DEBUG:root:returning Winnie says  baa baa baa baa munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:returning Flossy says  baa baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:returning Flossy says  munch baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Winnie says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:returning Flossy says  baa baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Winnie says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:sent is now  baa baa baa munch
+DEBUG:root:sent is now  baa baa baa munch munch
+DEBUG:root:returning Winnie says  baa baa baa munch munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa munch
+DEBUG:root:sent is now  baa baa munch baa
+DEBUG:root:returning Winnie says  baa baa munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:returning Winnie says  munch baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:sent is now  munch baa munch
+DEBUG:root:sent is now  munch baa munch baa
+DEBUG:root:returning Flossy says  munch baa munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch munch
+DEBUG:root:returning Winnie says  munch munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:sent is now  munch baa munch
+DEBUG:root:sent is now  munch baa munch baa
+DEBUG:root:sent is now  munch baa munch baa baa
+DEBUG:root:sent is now  munch baa munch baa baa baa
+DEBUG:root:sent is now  munch baa munch baa baa baa baa
+DEBUG:root:returning Flossy says  munch baa munch baa baa baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch munch
+DEBUG:root:sent is now  munch munch baa
+DEBUG:root:returning Winnie says  munch munch baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa munch
+DEBUG:root:sent is now  baa baa munch baa
+DEBUG:root:returning Winnie says  baa baa munch baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:sent is now  munch baa baa
+DEBUG:root:returning Flossy says  munch baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Winnie says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch munch
+DEBUG:root:returning Winnie says  munch munch
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Winnie says  baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:returning Flossy says  munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:returning Winnie says  baa baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:sent is now  baa baa baa baa
+DEBUG:root:returning Winnie says  baa baa baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:returning Flossy says  baa baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:sent is now  baa munch munch
+DEBUG:root:sent is now  baa munch munch munch
+DEBUG:root:sent is now  baa munch munch munch baa
+DEBUG:root:sent is now  baa munch munch munch baa baa
+DEBUG:root:sent is now  baa munch munch munch baa baa baa
+DEBUG:root:returning Winnie says  baa munch munch munch baa baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:returning Flossy says  baa baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Winnie says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Winnie says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:returning Winnie says  baa baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:returning Flossy says  munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:returning Winnie says  munch baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch munch
+DEBUG:root:returning Flossy says  munch munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Winnie says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:returning Flossy says  baa baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Winnie says  baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa munch
+DEBUG:root:returning Flossy says  baa baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:sent is now  baa baa baa baa
+DEBUG:root:returning Winnie says  baa baa baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Winnie says  baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:returning Winnie says  munch baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch munch
+DEBUG:root:returning Flossy says  munch munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:sent is now  baa munch munch
+DEBUG:root:sent is now  baa munch munch baa
+DEBUG:root:returning Winnie says  baa munch munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:sent is now  baa munch baa
+DEBUG:root:returning Flossy says  baa munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Winnie says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Winnie says  baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:returning Winnie says  munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa munch
+DEBUG:root:returning Flossy says  baa baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch munch
+DEBUG:root:returning Flossy says  munch munch
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Winnie says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa munch
+DEBUG:root:returning Winnie says  baa baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:sent is now  baa munch munch
+DEBUG:root:sent is now  baa munch munch baa
+DEBUG:root:returning Winnie says  baa munch munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:sent is now  munch baa baa
+DEBUG:root:sent is now  munch baa baa baa
+DEBUG:root:sent is now  munch baa baa baa baa
+DEBUG:root:sent is now  munch baa baa baa baa baa
+DEBUG:root:sent is now  munch baa baa baa baa baa munch
+DEBUG:root:sent is now  munch baa baa baa baa baa munch munch
+DEBUG:root:sent is now  munch baa baa baa baa baa munch munch baa
+DEBUG:root:sent is now  munch baa baa baa baa baa munch munch baa baa
+DEBUG:root:returning Flossy says  munch baa baa baa baa baa munch munch baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Winnie says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Flossy says  baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:returning Winnie says  munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:sent is now  baa baa baa munch
+DEBUG:root:returning Flossy says  baa baa baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Winnie says  baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Winnie says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Flossy says  baa munch
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:sent is now  munch baa baa
+DEBUG:root:returning Winnie says  munch baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Winnie says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Winnie says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:returning Flossy says  baa baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:returning Winnie says  munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa munch
+DEBUG:root:returning Flossy says  baa baa munch
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Winnie says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa munch
+DEBUG:root:sent is now  baa baa munch baa
+DEBUG:root:returning Winnie says  baa baa munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Winnie says  baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa munch
+DEBUG:root:returning Flossy says  baa baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:returning Winnie says  munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:sent is now  baa baa baa munch
+DEBUG:root:returning Flossy says  baa baa baa munch
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Winnie says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:sent is now  munch baa baa
+DEBUG:root:sent is now  munch baa baa baa
+DEBUG:root:sent is now  munch baa baa baa baa
+DEBUG:root:returning Winnie says  munch baa baa baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Winnie says  baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Winnie says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch munch
+DEBUG:root:sent is now  munch munch baa
+DEBUG:root:returning Flossy says  munch munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch munch
+DEBUG:root:sent is now  munch munch munch
+DEBUG:root:sent is now  munch munch munch baa
+DEBUG:root:sent is now  munch munch munch baa baa
+DEBUG:root:sent is now  munch munch munch baa baa baa
+DEBUG:root:sent is now  munch munch munch baa baa baa munch
+DEBUG:root:sent is now  munch munch munch baa baa baa munch baa
+DEBUG:root:sent is now  munch munch munch baa baa baa munch baa munch
+DEBUG:root:sent is now  munch munch munch baa baa baa munch baa munch baa
+DEBUG:root:sent is now  munch munch munch baa baa baa munch baa munch baa baa
+DEBUG:root:returning Flossy says  munch munch munch baa baa baa munch baa munch baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Winnie says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Winnie says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Winnie says  baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Flossy says  baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:sent is now  baa baa baa munch
+DEBUG:root:sent is now  baa baa baa munch baa
+DEBUG:root:sent is now  baa baa baa munch baa baa
+DEBUG:root:sent is now  baa baa baa munch baa baa munch
+DEBUG:root:sent is now  baa baa baa munch baa baa munch baa
+DEBUG:root:returning Winnie says  baa baa baa munch baa baa munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Flossy says  baa munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Flossy says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:sent is now  munch baa munch
+DEBUG:root:sent is now  munch baa munch baa
+DEBUG:root:sent is now  munch baa munch baa baa
+DEBUG:root:sent is now  munch baa munch baa baa baa
+DEBUG:root:sent is now  munch baa munch baa baa baa baa
+DEBUG:root:sent is now  munch baa munch baa baa baa baa baa
+DEBUG:root:returning Winnie says  munch baa munch baa baa baa baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:sent is now  munch baa baa
+DEBUG:root:returning Flossy says  munch baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:returning Flossy says  baa munch
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:returning Winnie says  munch baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:returning Flossy says  baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Winnie says  munch
+DEBUG:root:sent is now  munch
+DEBUG:root:sent is now  munch baa
+DEBUG:root:returning Flossy says  munch baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Winnie says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Winnie says  baa
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa munch
+DEBUG:root:sent is now  baa munch baa
+DEBUG:root:sent is now  baa munch baa baa
+DEBUG:root:sent is now  baa munch baa baa baa
+DEBUG:root:returning Flossy says  baa munch baa baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Winnie says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:sent is now  baa baa
+DEBUG:root:sent is now  baa baa baa
+DEBUG:root:sent is now  baa baa baa baa
+DEBUG:root:returning Flossy says  baa baa baa baa
+DEBUG:root:sent is now  munch
+DEBUG:root:returning Winnie says  munch
+DEBUG:root:sent is now  baa
+DEBUG:root:returning Flossy says  baa
