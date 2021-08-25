@@ -35,6 +35,69 @@ class Tree:
           self.root = root
           self.last_added = root
    
+                   
+  def remove_and_rejoin(self, node):
+      ''' delete a node, rejoining subtree below it '''
+     
+      nps = [_ for _ in node.parents]  # the node's parents
+      ncn = [_ for _ in node.children]  # the node's children
+     
+      for p in nps:
+          p.children.remove(node)
+          p.children.extend(ncn)
+     
+      for c in ncn:
+          c.parents.remove(node)
+          c.parents.extend(nps)
+         
+      node.parents = None
+      node.children = None
+         
+          
+          
+  def delete(self, node):
+      '''
+      sever connection between parent and child
+
+      '''
+      nps = [_ for _ in node.parents]
+      ncn = [_ for _ in node.children]
+      
+      for p in nps:
+          p.children.remove(node)
+      
+      for c in ncn:
+          c.parents.remove(node)
+    
+      node.children = None
+      node.parents = None
+      
+  def agglomerate(self, n, nl):
+      '''
+      given list of nodes nl and a preferential member of the list n
+      remove all nodes expect n, joining subtrees to n
+
+      '''
+      if n not in nl:
+          raise Exception('In agglomerate, node arg n must be member of node list nl')
+      else:
+          cn = [c for c in n.children]  # get list of n's children
+          for l in nl:
+              if l is n:
+                  pass
+              else:  # for each l
+                  cl = [c for c in l.children]  # get list of l's children
+                  for c in cl:
+                      if c not in cn: # if child of l not a child of n, append it
+                         cn.append(c)
+                         cp = [p for p in c.parents]
+                         cp.append(n)
+                         c.parents = cp
+                  self.delete(l)     
+      n.children = cn
+              
+      
+      
   def add_node(self, node):
       if not isinstance(node, TreeNode):
           raise Exception("add_node argument must be an object of type TreeNode")
@@ -51,20 +114,8 @@ class Tree:
                    l = [_ for _ in parent_node.children] 
                    l.append(node)
                    parent_node.children = l
-       
-                
-       
-        
-       
-  # def insert_node(self, node, upper, lower):
-  #     if not [isinstance(x,TreeNode) for x in (node,upper,lower)]:
-  #         raise Exception("insert_node args must be objects of type TreeNode")
-  #     else:
-  #         self.tree[upper.name].children.delete(lower)
-  #         self.tree[upper.name].childen.append(node)
-  #         self.tree[lower.name].parent.delete(upper)
-  #         self.tree[lower.name].parent.append(node)
- 
+                   
+
         
   def __str__(self, level = 0, node = None):
       if level == 100:

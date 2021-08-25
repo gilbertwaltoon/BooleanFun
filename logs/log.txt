@@ -19,70 +19,17 @@ _expr
 		_value
 
 
-in term2() with ! calling _factor()
+Name:_value
+Parents:[<treenode.TreeNode object at 0x0000022FC225FBC8>]
+Children:[]
+Data:[]
 
-in factor with pl.current ['(', '']
-
-_expr
-	_term
-		_value
-			!
-			_factor
-
-
-in factor() with ( calling expr
-
-in expr()
+in factor with pl.current ['var', 'd']
 
 _expr
 	_term
 		_value
-			!
 			_factor
-				(
-					_expr
-
-
-in term() calling factor()
-
-_expr
-	_term
-		_value
-			!
-			_factor
-				(
-					_expr
-						_term
-
-
-In value
-
-_expr
-	_term
-		_value
-			!
-			_factor
-				(
-					_expr
-						_term
-							_value
-
-
-in term2() with ! calling _factor()
-
-in factor with pl.current ['var', 'x']
-
-_expr
-	_term
-		_value
-			!
-			_factor
-				(
-					_expr
-						_term
-							_value
-								!
-								_factor
 
 
 in factor() with [num,var]
@@ -90,36 +37,87 @@ in factor() with [num,var]
 _expr
 	_term
 		_value
-			!
 			_factor
-				(
-					_expr
-						_term
-							_value
-								!
-								_factor
-									var,x
+				var,d
 
 
 factor() returning true
 
 in term
 
+in term2 with pl.current = ['*', ''] 
+
+_expr
+	_term
+		_value
+			_factor
+				var,d
+		_term2
+
+
+in term2() with [*,/] calling factor()
+
+In value
+
+_expr
+	_term
+		_value
+			_factor
+				var,d
+		_term2
+			*
+			_value
+
+
+Name:_value
+Parents:[<treenode.TreeNode object at 0x0000022FC225FE48>]
+Children:[]
+Data:[]
+
+in factor with pl.current ['var', 'a']
+
+_expr
+	_term
+		_value
+			_factor
+				var,d
+		_term2
+			*
+			_value
+				_factor
+
+
+in factor() with [num,var]
+
+_expr
+	_term
+		_value
+			_factor
+				var,d
+		_term2
+			*
+			_value
+				_factor
+					var,a
+
+
+factor() returning true
+
+in term2
+
 in term2 with pl.current = ['+', ''] 
 
 _expr
 	_term
 		_value
-			!
 			_factor
-				(
-					_expr
-						_term
-							_value
-								!
-								_factor
-									var,x
-							_term2
+				var,d
+		_term2
+			*
+			_value
+				_factor
+					var,a
+			_term2
 
 
 in _term2 with [+,-,)] -> EPS, returning True
@@ -131,17 +129,15 @@ in expr2() with pl current ['+', '']
 _expr
 	_term
 		_value
-			!
 			_factor
-				(
-					_expr
-						_term
-							_value
-								!
-								_factor
-									var,x
-							_term2
-						_expr2
+				var,d
+		_term2
+			*
+			_value
+				_factor
+					var,a
+			_term2
+	_expr2
 
 
 expr2 got +
@@ -153,19 +149,17 @@ in term() calling factor()
 _expr
 	_term
 		_value
-			!
 			_factor
-				(
-					_expr
-						_term
-							_value
-								!
-								_factor
-									var,x
-							_term2
-						_expr2
-							+
-							_term
+				var,d
+		_term2
+			*
+			_value
+				_factor
+					var,a
+			_term2
+	_expr2
+		+
+		_term
 
 
 In value
@@ -173,45 +167,46 @@ In value
 _expr
 	_term
 		_value
-			!
 			_factor
-				(
-					_expr
-						_term
-							_value
-								!
-								_factor
-									var,x
-							_term2
-						_expr2
-							+
-							_term
-								_value
+				var,d
+		_term2
+			*
+			_value
+				_factor
+					var,a
+			_term2
+	_expr2
+		+
+		_term
+			_value
 
+
+Name:_value
+Parents:[<treenode.TreeNode object at 0x0000022FC225F848>]
+Children:[]
+Data:[]
 
 in term2() with ! calling _factor()
 
-in factor with pl.current ['var', 'y']
+in factor with pl.current ['var', 'b']
 
 _expr
 	_term
 		_value
-			!
 			_factor
-				(
-					_expr
-						_term
-							_value
-								!
-								_factor
-									var,x
-							_term2
-						_expr2
-							+
-							_term
-								_value
-									!
-									_factor
+				var,d
+		_term2
+			*
+			_value
+				_factor
+					var,a
+			_term2
+	_expr2
+		+
+		_term
+			_value
+				!
+					_factor
 
 
 in factor() with [num,var]
@@ -219,23 +214,263 @@ in factor() with [num,var]
 _expr
 	_term
 		_value
-			!
 			_factor
-				(
-					_expr
-						_term
-							_value
-								!
-								_factor
-									var,x
-							_term2
-						_expr2
-							+
-							_term
-								_value
-									!
-									_factor
-										var,y
+				var,d
+		_term2
+			*
+			_value
+				_factor
+					var,a
+			_term2
+	_expr2
+		+
+		_term
+			_value
+				!
+					_factor
+						var,b
+
+
+factor() returning true
+
+in term
+
+in term2 with pl.current = ['*', ''] 
+
+_expr
+	_term
+		_value
+			_factor
+				var,d
+		_term2
+			*
+			_value
+				_factor
+					var,a
+			_term2
+	_expr2
+		+
+		_term
+			_value
+				!
+					_factor
+						var,b
+			_term2
+
+
+in term2() with [*,/] calling factor()
+
+In value
+
+_expr
+	_term
+		_value
+			_factor
+				var,d
+		_term2
+			*
+			_value
+				_factor
+					var,a
+			_term2
+	_expr2
+		+
+		_term
+			_value
+				!
+					_factor
+						var,b
+			_term2
+				*
+				_value
+
+
+Name:_value
+Parents:[<treenode.TreeNode object at 0x0000022FC225F788>]
+Children:[]
+Data:[]
+
+in factor with pl.current ['(', '']
+
+_expr
+	_term
+		_value
+			_factor
+				var,d
+		_term2
+			*
+			_value
+				_factor
+					var,a
+			_term2
+	_expr2
+		+
+		_term
+			_value
+				!
+					_factor
+						var,b
+			_term2
+				*
+				_value
+					_factor
+
+
+in factor() with ( calling expr
+
+in expr()
+
+_expr
+	_term
+		_value
+			_factor
+				var,d
+		_term2
+			*
+			_value
+				_factor
+					var,a
+			_term2
+	_expr2
+		+
+		_term
+			_value
+				!
+					_factor
+						var,b
+			_term2
+				*
+				_value
+					_factor
+						(
+							_expr
+
+
+in term() calling factor()
+
+_expr
+	_term
+		_value
+			_factor
+				var,d
+		_term2
+			*
+			_value
+				_factor
+					var,a
+			_term2
+	_expr2
+		+
+		_term
+			_value
+				!
+					_factor
+						var,b
+			_term2
+				*
+				_value
+					_factor
+						(
+							_expr
+								_term
+
+
+In value
+
+_expr
+	_term
+		_value
+			_factor
+				var,d
+		_term2
+			*
+			_value
+				_factor
+					var,a
+			_term2
+	_expr2
+		+
+		_term
+			_value
+				!
+					_factor
+						var,b
+			_term2
+				*
+				_value
+					_factor
+						(
+							_expr
+								_term
+									_value
+
+
+Name:_value
+Parents:[<treenode.TreeNode object at 0x0000022FC2215BC8>]
+Children:[]
+Data:[]
+
+in factor with pl.current ['var', 'c']
+
+_expr
+	_term
+		_value
+			_factor
+				var,d
+		_term2
+			*
+			_value
+				_factor
+					var,a
+			_term2
+	_expr2
+		+
+		_term
+			_value
+				!
+					_factor
+						var,b
+			_term2
+				*
+				_value
+					_factor
+						(
+							_expr
+								_term
+									_value
+										_factor
+
+
+in factor() with [num,var]
+
+_expr
+	_term
+		_value
+			_factor
+				var,d
+		_term2
+			*
+			_value
+				_factor
+					var,a
+			_term2
+	_expr2
+		+
+		_term
+			_value
+				!
+					_factor
+						var,b
+			_term2
+				*
+				_value
+					_factor
+						(
+							_expr
+								_term
+									_value
+										_factor
+											var,c
 
 
 factor() returning true
@@ -247,54 +482,70 @@ in term2 with pl.current = [')', '']
 _expr
 	_term
 		_value
-			!
 			_factor
-				(
-					_expr
-						_term
-							_value
-								!
-								_factor
-									var,x
-							_term2
-						_expr2
-							+
-							_term
-								_value
-									!
-									_factor
-										var,y
-								_term2
+				var,d
+		_term2
+			*
+			_value
+				_factor
+					var,a
+			_term2
+	_expr2
+		+
+		_term
+			_value
+				!
+					_factor
+						var,b
+			_term2
+				*
+				_value
+					_factor
+						(
+							_expr
+								_term
+									_value
+										_factor
+											var,c
+									_term2
 
 
 in _term2 with [+,-,)] -> EPS, returning True
 
-in expr2() calling expr2()
+in expr(), calling expr2()
 
 in expr2() with pl current [')', ''] 
 
 _expr
 	_term
 		_value
-			!
 			_factor
-				(
-					_expr
-						_term
-							_value
-								!
-								_factor
-									var,x
-							_term2
-						_expr2
-							+
-							_term
-								_value
-									!
-									_factor
-										var,y
-								_term2
-							_expr2
+				var,d
+		_term2
+			*
+			_value
+				_factor
+					var,a
+			_term2
+	_expr2
+		+
+		_term
+			_value
+				!
+					_factor
+						var,b
+			_term2
+				*
+				_value
+					_factor
+						(
+							_expr
+								_term
+									_value
+										_factor
+											var,c
+									_term2
+								_expr2
 
 
 in expr2 with [),None]
@@ -305,67 +556,83 @@ in _factor. expr returned pl.current [')', '']
 
 in factor with ), returning True
 
-in term
+in term2
 
 in term2 with pl.current = [None] 
 
 _expr
 	_term
 		_value
-			!
 			_factor
-				(
-					_expr
-						_term
-							_value
-								!
-								_factor
-									var,x
-							_term2
-						_expr2
-							+
-							_term
-								_value
-									!
-									_factor
-										var,y
-								_term2
-							_expr2
-					)
+				var,d
 		_term2
+			*
+			_value
+				_factor
+					var,a
+			_term2
+	_expr2
+		+
+		_term
+			_value
+				!
+					_factor
+						var,b
+			_term2
+				*
+				_value
+					_factor
+						(
+							_expr
+								_term
+									_value
+										_factor
+											var,c
+									_term2
+								_expr2
+							)
+				_term2
 
 
 in _term2 with [+,-,)] -> EPS, returning True
 
-in expr(), calling expr2()
+in expr2() calling expr2()
 
 in expr2() with pl current [None] 
 
 _expr
 	_term
 		_value
-			!
 			_factor
-				(
-					_expr
-						_term
-							_value
-								!
-								_factor
-									var,x
-							_term2
-						_expr2
-							+
-							_term
-								_value
-									!
-									_factor
-										var,y
-								_term2
-							_expr2
-					)
+				var,d
 		_term2
+			*
+			_value
+				_factor
+					var,a
+			_term2
 	_expr2
+		+
+		_term
+			_value
+				!
+					_factor
+						var,b
+			_term2
+				*
+				_value
+					_factor
+						(
+							_expr
+								_term
+									_value
+										_factor
+											var,c
+									_term2
+								_expr2
+							)
+				_term2
+		_expr2
 
 
 in expr2 with [),None]
@@ -377,26 +644,48 @@ Leaving
 _expr
 	_term
 		_value
-			!
 			_factor
-				(
-					_expr
-						_term
-							_value
-								!
-								_factor
-									var,x
-							_term2
-						_expr2
-							+
-							_term
-								_value
-									!
-									_factor
-										var,y
-								_term2
-							_expr2
-					)
+				var,d
 		_term2
+			*
+			_value
+				_factor
+					var,a
+			_term2
 	_expr2
+		+
+		_term
+			_value
+				!
+					_factor
+						var,b
+			_term2
+				*
+				_value
+					_factor
+						(
+							_expr
+								_term
+									_value
+										_factor
+											var,c
+									_term2
+								_expr2
+							)
+				_term2
+		_expr2
 
+
+_ast called with_expr
+
+_expr node, removing child _term
+
+_expr node, removing child _expr2
+
+_ast called with_value
+
+_value, removing child _factor
+
+_ast called withvar,d
+
+_ast called with_term2

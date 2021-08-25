@@ -23,7 +23,7 @@ def boolean_lexer(chars_iter):
              pass           # Ignore whitespace
         elif c in "()":
             yield([c,''])
-        elif c in "+!":
+        elif c in "*+!":
             yield([c,''])
         elif re.match("[_a-zA-Z]", c):
             yield(['var', _scan(c, chars, "[_a-zA-Z0-9]")])

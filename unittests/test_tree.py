@@ -64,11 +64,28 @@ class TestTree(unittest.TestCase):
         # Try adding a node with no parents (=currently not allowed for safety)
         badnode = TreeNode(name = 'badnode')
         self.assertRaises(Exception, lambda:t.add(badnode))
-      
         
+        # Test deletiong node, rejoining sub-tree below 
+        # Form a subtree below 'three'
+        node4 = TreeNode('four', parents = [node3])
+        node5 = TreeNode('five', parents = [node3])
+        node6 = TreeNode('six', parents = [node4])
+        t.add_node(node4)
+        t.add_node(node5)
+        t.add_node(node6)
+        # and delete 'three'
+        t.remove_and_rejoin(node3)
+        self.assertEqual([c.name for c in node2.children], ['four', 'five'])
+        self.assertEqual(node4.children[0].name, 'six')
+        self.assertEqual(node6.parents[0].name, 'four')
+        self.assertEqual(node4.parents[0].name, 'two')
+        self.assertEqual(node5.parents[0].name, 'two')
+        
+        
+    #    print(node4.parents[0].name)
         
         print('\nN.B. Can print info on a node like this: print(node2) >>>')
-       # print(myrootnode)
+        print(node2)
         
         print('\n\nN.B. Can print trees nodes a trees like this: print(t) >>> ')
       #  print(myrootnode)

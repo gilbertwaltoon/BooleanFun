@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Mar 21 16:10:20 2021
-
 @author: DaddyDog
 """
 
@@ -12,11 +11,99 @@ from tree import Tree
 from dogLogging import DogLogging
    
 
-log = DogLogging(fname = './logs/log.txt', fmode = 'w', level = 'OFF')    
+log = DogLogging(fname = './logs/log.txt', fmode = 'w', level = 'OFF')   
 
+def delete_danglers(t, n):
+    '''
+    check if a node has no children and is a non-term and if so, delete it
+    '''
+    # get a list of the children of the node
+    nc = n.children
+    if nc != [] or n == t.root:
+        for c in nc:
+            delete_danglers(t,c)
+    else:
+        if n.name in ['_expr', '_term', '_term2', '_expr2', '_factor', '_value']: 
+            t.delete(n)
+
+def asyntree(t):
+  '''
+  assumes the tree to be simplified is built around Boolean_rrec_grammar
+  '''  
+  
+  def _ast(t,n):
+    # get a list of the children of the node
+      log.w("_ast called with" +  n.name)
+     # if n.children == [] or n.children == None:
+      #    return
+      # else:
+      nc = [c for c in n.children]
+      nms = [m.name for m in nc]
+      if n.name == '_expr':
+          if nms == ['_term', '_expr2']:
+              for c in nc:
+                  log.w("_expr node, removing child " + c.name)
+                  t.remove_and_rejoin(c)
+              nc = [c for c in n.children]  # update children-list following removal
+
+      elif n.name == '_term':
+         if nms == ['_value_','_term2']:
+             for c in nc:
+                 log.w("_term node, removing child " + c.name) 
+                 t.remove_and_rejoin(c)
+             nc = [c for c in n.children]  # update children-list following removal
+      elif n.name == '_expr2':
+           # _expr2  ->  +, _term, _expr2
+    	   #           | eps 
+          if nms == ['+', '_term', '_expr2']:
+              print('jdfghfkdfjghdfkjghdfkj')
+              t.agglomerate(nc[0], [nc])
+          if nc == []:  # _eps
+              t.delete(n)    
+              return  # guaranteed to be no sub-nodes is num or var
+      elif n.name == '_term2':
+          # _term2  ->  *, _value, _term2
+		  #            | _eps
+         if nms == ['*', '_value', '_term2']:
+              print('dfjghdfkjghdfkjghdfkjghdfkjghd')
+              t.agglomerate(nc[0], [nc])
+         elif nc == []:  # _eps
+              t.delete(n)    
+              return  # guaranteed to be no sub-nodes is num or var
+      elif n.name == '_value':
+          # _value  ->  !, _factor
+          #           | _factor
+          if nms == ['_factor']:  # _value -> _factor
+              log.w("_value, removing child " + nc[0].name) 
+              t.remove_and_rejoin(nc[0])
+              nc = [c for c in n.children]
+      elif n.name == '_factor':
+         # _factor ->  (, _expr, )
+		     #            | num
+		     #            | var
+          log.w("name is " + n.name) 
+          for c in nc:
+              log.w("child is " + c.name) 
+              if c.name[0:3] in ['num','var']:   
+                  t.remove_and_rejoin(n)
+                  return  # guaranteed to be no sub-nodes is num or var
+                      
+      
+      for c in nc:
+         _ast(t,c) 
+                      
+  #call once with root
+  _ast(t, t.root)
+  
+ 
+# # forms a "singleton-like" counter        
+# def sctr():
+#     sctr.counter += 1
+#     return str(sctr.counter)
+# sctr.counter = 10          
+           
 def boolean_parse_tree(l):
     ''' 
-
    _expr   ->  _term, _expr2
    _expr2  ->  +, _term, _expr2
     	     | _eps
@@ -127,12 +214,13 @@ def boolean_parse_tree(l):
         n = TreeNode(name = '_value', parents = [p])
         t.add_node(n)
         log.w(t)
+        log.w(n)
         if pl.current[0] == "!":
            nn = TreeNode(name = '!', parents  = [n])
            t.add_node(nn)
            pl.move_next()
            log.w('in term2() with ! calling _factor()') 
-           return _factor(n)
+           return _factor(nn)
         elif _factor(n):
             return True
         else:
@@ -169,7 +257,9 @@ def boolean_parse_tree(l):
            return True
        else:
            raise Exception("_factor() failed")
-           
+    
+
+    
     if _expr(p = rootnode):
         if pl.move_next()[0] is None:
             log.w('Leaving')
@@ -179,4 +269,7 @@ def boolean_parse_tree(l):
             raise Exception("_expr() returned with tokens still outstanding")
 
 if __name__ == '__main__':
-      print(boolean_parse_tree(boolean_lexer('!(!x+!y)')))
+      t = boolean_parse_tree(boolean_lexer('d*a+!b*(c)'))
+      print(t)
+      asyntree(t)
+      print(t)  
